@@ -70,33 +70,21 @@
 </p>
 
 ---
+# 📊 GitHub Stats
 
-## 📊 GitHub Stats
+## Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZakariaChamekh&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakariach05&show_icons=true&theme=radical" />
-</p>
+## Graphiques Avancés
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariach05&layout=compact&theme=radical" />
-</p>
+### 🎯 Graphique Radar des Compétences
+![Radar Chart](https://skillicons.dev/icons?i=js,html,css,react,tailwind,php,laravel,wordpress,mysql,git)
 
----
+### 📈 Graphique 3D des Contributions
+![3D Contributions](https://github-readme-3d.vercel.app/?username=ZakariaChamekh&theme=dark)
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zakariach05&theme=radical" />
-</p>
-
----
-
-## 🧊 Graphiques Avancés (3D / Radar / Donut)
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/zakariach05?template=classic&base.activity=1&languages=1&activity=1&achievements=1&base.community=1&config.timezone=Africa/Casablanca" />
-</p>
-
+### 🍩 Graphique Donut des Langages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaChamekh&layout=donut&theme=dark)
 ---
 
 ## 🐍 Animation Contributions
