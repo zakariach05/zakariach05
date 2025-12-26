@@ -70,21 +70,11 @@
 </p>
 
 ---
-# 📊 GitHub Stats
+## 🎯 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZakariaChamekh&theme=dark&hide_border=true)
 
-## Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=ZakariaChamekh&theme=dark)
-
-## Graphiques Avancés
-
-### 🎯 Graphique Radar des Compétences
-![Radar Chart](https://skillicons.dev/icons?i=js,html,css,react,tailwind,php,laravel,wordpress,mysql,git)
-
-### 📈 Graphique 3D des Contributions
-![3D Contributions](https://github-readme-3d.vercel.app/?username=ZakariaChamekh&theme=dark)
-
-### 🍩 Graphique Donut des Langages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaChamekh&layout=donut&theme=dark)
+## 📈 3D Contribution Graph
+![3D Graph](https://github-contributions-api.deno.dev/ZakariaChamekh?format=svg&width=800)
 ---
 
 ## 🐍 Animation Contributions
