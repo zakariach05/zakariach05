@@ -1,3 +1,4 @@
+<div align="center">
 <!-- ===================== BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Zakaria%20Chamekh&fontSize=38&fontColor=ffffff&animation=fadeIn" />
@@ -108,20 +109,34 @@
 
 ## 🚀 Projets
 
-### 🔹 Projet 1
-- **Tech** : React, Laravel, MySQL  
-- **Description** : Application web avec dashboard admin  
-- 🔗 GitHub
+# 🎮 La Casa De Papel - Jeu Web Interactif
 
-### 🔹 Projet 2
-- **Tech** : WordPress, PHP, JavaScript  
-- **Description** : Site e-commerce avec paiement en ligne  
-- 🔗 GitHub
+## Description
+Un jeu web interactif inspiré de la série **La Casa De Papel**, combinant quiz et mini-jeux immersifs.  
+L'application utilise **JavaScript Vanilla** pour la logique du jeu, **GSAP.js** pour les animations d’interface, **Anime.js** pour les effets de personnages, et **Three.js** pour les scènes 3D.
 
-### 🔹 Projet 3
-- **Tech** : React, Tailwind CSS, Node.js  
-- **Description** : Application de gestion de tâches  
-- 🔗 GitHub
+---
+
+## 🚀 Fonctionnalités
+- Quiz sur la série avec score et animations de réussite/échec.
+- Mini-jeux interactifs : casse de coffre-fort, évasion en labyrinthe.
+- Scènes 3D immersives avec Three.js.
+- Effets visuels et sonores pour une expérience engageante.
+- Interface responsive pour desktop et mobile.
+
+---
+
+## 🛠 Technologies
+- **JavaScript Vanilla** – logique du jeu
+- **GSAP.js** – animations d’interface
+- **Anime.js** – effets sur les personnages
+- **Three.js** – scènes 3D
+- **HTML5 / CSS3** – structure et style
+
+---
+
+## 📂 Structure du projet
+
 
 ---
 
@@ -137,3 +152,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zakariach05&style=flat-square&color=blue" />
 </p>
+
+</div>
