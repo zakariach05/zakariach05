@@ -69,13 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45"/>
 </p>
 
----
-## 🎯 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=ZakariaChamekh&theme=dark&hide_border=true)
-
-## 📈 3D Contribution Graph
-![3D Graph](https://github-contributions-api.deno.dev/ZakariaChamekh?format=svg&width=800)
----
 
 ## 🐍 Animation Contributions
 
