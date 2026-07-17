@@ -63,12 +63,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=EC4899" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zakariach05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=EC4899" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariach05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariach05&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899" />
 
 </div>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=EC4899&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariach05&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=EC4899&point=ffffff" width="100%"/>
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/zakariach05/zakariach05/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
