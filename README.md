@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6d28d9,100:be185d&height=220&section=header&text=Zakaria%20Chamekh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Web%20Full%20Stack%20Junior&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,50:FFFFFF,100:FACC15&height=220&section=header&text=Zakaria%20Chamekh&fontSize=48&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Web%20Full%20Stack%20Junior&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=React.js+%7C+Laravel+%7C+MySQL;D%C3%A9veloppeur+Full+Stack+Junior;Passionn%C3%A9+par+le+Web+%26+les+API+REST;Toujours+pr%C3%AAt+%C3%A0+apprendre+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=React.js+%7C+Laravel+%7C+MySQL;D%C3%A9veloppeur+Full+Stack+Junior;Passionn%C3%A9+par+le+Web+%26+les+API+REST;Toujours+pr%C3%AAt+%C3%A0+apprendre+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -63,12 +63,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zakariach05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=EC4899" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariach05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zakariach05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FFFF00&text_color=FFFFFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariach05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=FFFFFF" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariach05&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariach05&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FFFF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF" />
 
 </div>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariach05&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=EC4899&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariach05&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFFF00&line=FF0000&point=FFFFFF&title_color=FFFFFF" width="100%"/>
 
 </div>
 
@@ -148,6 +148,6 @@
 
 📧 chamekhzakaria95@gmail.com &nbsp;|&nbsp; 📱 +212 704 685 662
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:be185d,50:6d28d9,100:1e3a8a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,50:FFFFFF,100:B91C1C&height=120&section=footer" width="100%"/>
 
 </div>
