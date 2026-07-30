@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Bannière style terminal -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,50:FFFFFF,100:FACC15&height=180&section=header&text=Zakaria%20Chamekh&fontSize=45&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Web%20Full%20Stack%20Junior&descAlignY=58&descSize=16" width="100%"/>
 
-<!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=React.js+%7C+Laravel+%7C+MySQL;D%C3%A9veloppeur+Full+Stack+Junior;Passionn%C3%A9+par+le+Web+%26+les+API+REST;Toujours+pr%C3%AAt+%C3%A0+apprendre+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakariach05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
@@ -18,61 +15,119 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25"> ~/contributions.sh
+## 🖥️ ~/about
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariach05&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFFF00&line=FF0000&point=FFFFFF&title_color=FFFFFF" width="100%"/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Terminal.png" width="25"> ~/about
-
-<!-- Terminal Window Style -->
+<!-- Terminal Window -->
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  🔴 🟡 🟢  zakariach05@github:~                                              │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│   ┌──────────────┐    ┌─────────────────────────────────────────────────┐   │
-│   │              │    │  zakariach05@github                             │   │
-│   │   [ASCII]    │    │  ─────────────────────────────────────────────  │   │
-│   │   AVATAR     │    │  OS:     Full Stack Developer (Web)             │   │
-│   │   GIF/IMG    │    │  Host:   Casablanca – Sidi Maarouf, Morocco     │   │
-│   │              │    │  Kernel: React.js | Laravel | MySQL | REST API  │   │
-│   │  (Remplace   │    │  Uptime: 2+ years of coding                     │   │
-│   │   par ton    │    │                                                 │   │
-│   │   GIF ASCII) │    │  Shell:  zsh 5.9                                │   │
-│   │              │    │  WM:     VS Code                                │   │
-│   └──────────────┘    │                                                 │   │
-│                       │  🎓 Education:                                    │   │
-│                       │  • Licence Dev Logiciel & Sécurité – ENSAM Casa   │   │
-│                       │  • Diplôme Web Full Stack – ISFO Casa             │   │
-│                       │                                                 │   │
-│                       │  🛠️ Stack:                                        │   │
-│                       │  • Frontend: React.js, Tailwind CSS, HTML5, JS    │   │
-│                       │  • Backend:  Laravel (MVC), PHP, Node.js          │   │
-│                       │  • Database: MySQL, MongoDB, Redis                │   │
-│                       │  • DevOps:   Docker, Git, Linux                   │   │
-│                       │                                                 │   │
-│                       │  🔐 Auth: JWT, OAuth, OTP, Magic Link             │   │
-│                       │  🌱 Learning: Spring Boot, Docker, Power BI       │   │
-│                       └─────────────────────────────────────────────────┘   │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  🔴 🟡 🟢  zakariach05@github:~                                               │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│   ┌─────────────────────┐    ┌───────────────────────────────────────────┐   │
+│   │                     │    │  zakariach05@github                       │   │
+│   │                     │    │  ───────────────────────────────────────  │   │
+│   │   [ASSETS/PHOTO.GIF]│    │  OS:     Full Stack Developer (Web)       │   │
+│   │                     │    │  Host:   Casablanca – Sidi Maarouf, MA    │   │
+│   │   TON GIF ASCII     │    │  Kernel: React.js | Laravel | MySQL       │   │
+│   │   ANIMÉ ICI         │    │  Uptime: 2+ years of coding               │   │
+│   │                     │    │                                           │   │
+│   │                     │    │  Shell:  zsh 5.9                          │   │
+│   └─────────────────────┘    │  WM:     VS Code                          │   │
+│                              │                                           │   │
+│                              │  🎓 Education:                              │   │
+│                              │  • Licence Dev Logiciel & Sécurité        │   │
+│                              │    ENSAM Casablanca (2025-2026)           │   │
+│                              │  • Diplôme Web Full Stack                 │   │
+│                              │    ISFO Casablanca                        │   │
+│                              │                                           │   │
+│                              │  🛠️ Stack:                                  │   │
+│                              │  • Frontend: React.js, Tailwind, HTML5    │   │
+│                              │  • Backend:  Laravel (MVC), PHP           │   │
+│                              │  • Database: MySQL, MongoDB, Redis        │   │
+│                              │  • DevOps:   Docker, Git, Linux           │   │
+│                              │                                           │   │
+│                              │  🔐 Auth: JWT, OAuth, OTP, Magic Link     │   │
+│                              │  🌱 Learning: Spring Boot, Power BI       │   │
+│                              └───────────────────────────────────────────┘   │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-> 💡 **Pour l'animation ASCII** : remplace `[ASCII AVATAR GIF/IMG]` par un GIF de ton avatar en ASCII. Voir le guide en bas pour le générer.
-
-<img src="https://neofetch-profile.vercel.app/api?username=zakariach05&theme=github-dark" />
+> 💡 Remplace le bloc ASCII ci-dessus par le vrai GIF en utilisant le code HTML ci-dessous.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25"> ~/links.sh
+## 🖥️ Version avec ton GIF (copie-colle ça dans ton README)
+
+Remplace **toute** la section `~/about` ci-dessus par ce code HTML :
+
+```html
+<h2 align="center">🖥️ ~/about</h2>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  🔴 🟡 🟢  zakariach05@github:~                                               │
+├──────────────────────────────────────────────────────────────────────────────┤
+```
+
+<br/>
+
+<table>
+<tr>
+<td width="45%" align="center">
+
+<img src="assets/photo.gif" width="100%" />
+
+</td>
+<td width="55%">
+
+```text
+zakariach05@github
+────────────────────────────────────────
+OS:     Full Stack Developer (Web)
+Host:   Casablanca – Sidi Maarouf, MA
+Kernel: React.js | Laravel | MySQL
+Uptime: 2+ years of coding
+
+Shell:  zsh 5.9
+WM:     VS Code
+
+🎓 Education:
+• Licence Dev Logiciel & Sécurité
+  ENSAM Casablanca (2025-2026)
+• Diplôme Web Full Stack
+  ISFO Casablanca
+
+🛠️ Stack:
+• Frontend: React.js, Tailwind, HTML5
+• Backend:  Laravel (MVC), PHP
+• Database: MySQL, MongoDB, Redis
+• DevOps:   Docker, Git, Linux
+
+🔐 Auth: JWT, OAuth, OTP, Magic Link
+🌱 Learning: Spring Boot, Power BI
+```
+
+</td>
+</tr>
+</table>
+
+```
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+```
+
+---
+
+## 🔗 ~/links
 
 <div align="center">
 
@@ -86,7 +141,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"> ~/stack
+## 🛠️ ~/stack
 
 <div align="center">
 
@@ -110,24 +165,34 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25"> ~/stats
+## 📊 ~/stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zakariach05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FFFF00&text_color=FFFFFF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariach05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zakariach05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FFFF00&text_color=FFFFFF&cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariach05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=FFFFFF&cache_seconds=86400" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariach05&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FFFF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariach05&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FFFF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&cache_seconds=86400" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25"> ~/projects
+## 📈 ~/activity
 
-### 🚀 Electro-05 — E-commerce Full Stack
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariach05&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFFF00&line=FF0000&point=FFFFFF&title_color=FFFFFF" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 ~/projects
+
+### 🛒 Electro-05 — E-commerce Full Stack
 
 `React.js` `Laravel 12` `MySQL` `Redis` `Docker` `API REST` `Tailwind CSS`
 
@@ -140,13 +205,13 @@
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zakariach05&repo=Electro-05&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=FFFFFF&icon_color=FFFF00)](https://github.com/zakariach05/Electro-05)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zakariach05&repo=Electro-05&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=FFFFFF&icon_color=FFFF00&cache_seconds=86400)](https://github.com/zakariach05/Electro-05)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="25"> ~/experience
+## 💼 ~/experience
 
 | Poste | Entreprise | Période |
 |---|---|---|
@@ -158,7 +223,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="25"> ~/certs
+## 🏆 ~/certs
 
 - ✅ Web Development Fundamentals — IBM SkillsBuild
 - ✅ Développement Moderne JavaScript — Cisco
@@ -166,41 +231,13 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Snake.png" width="25"> ~/snake
+## 🐍 ~/snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/zakariach05/zakariach05/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25"> Comment générer l'animation ASCII (comme dans la vidéo)
-
-### Option 1 : GIF Terminal avec `github-readme-terminal` (Recommandé)
-
-```bash
-# 1. Installe l'outil
-pip install github-readme-terminal
-
-# 2. Génère le GIF
-github-readme-terminal   --username zakariach05   --theme tokyonight   --commands "neofetch" "ls -la" "echo 'Hello World!'"   --output terminal.gif
-
-# 3. Upload le GIF dans ton repo (ex: dans un dossier assets/)
-# 4. Remplace dans le README ci-dessus le bloc ASCII par : <img src="assets/terminal.gif" />
-```
-
-### Option 2 : SVG Neofetch dynamique
-
-Remplace le bloc ASCII dans le README par :
-```markdown
-<img src="https://neofetch-profile.vercel.app/api?username=zakariach05&theme=github-dark" />
-```
-
-### Option 3 : Terminal animé avec Typing (GitHub Action)
-
-Ajoute ce workflow (fichier `.github/workflows/terminal.yml` fourni ci-dessous) pour générer automatiquement un SVG terminal animé.
 
 ---
 
