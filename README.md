@@ -1,19 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,50:FFFFFF,100:FACC15&height=180&section=header&text=Zakaria%20Chamekh&fontSize=45&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Web%20Full%20Stack%20Junior&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=React.js+%7C+Laravel+%7C+MySQL;D%C3%A9veloppeur+Full+Stack+Junior;Passionn%C3%A9+par+le+Web+%26+les+API+REST;Toujours+pr%C3%AAt+%C3%A0+apprendre+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakariach05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamekhzakaria95@gmail.com)
-
-</div>
-
----
 
 ## 🖥️ ~/about
 
