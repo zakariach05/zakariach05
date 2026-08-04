@@ -1,6 +1,8 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,50:FFFFFF,100:B91C1C&height=180&section=header&text=Zakaria%20Chamekh&fontSize=40&fontColor=fff" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;React.js+%7C+Laravel+%7C+MySQL;Toujours+en+train+d'apprendre" />
 
 ## 🖥️ ~/about
 
@@ -110,6 +112,16 @@ WM:     VS Code
 
 ---
 
+## 🏆 ~/trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zakariach05&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
 ## 🚀 ~/projects
 
 ### 🛒 Electro-05 — E-commerce Full Stack
@@ -124,6 +136,9 @@ WM:     VS Code
 - Optimisation Redis, conteneurisation Docker Compose, tests Postman
 
 <div align="center">
+
+<!-- 🎬 Remplace la ligne ci-dessous par ton GIF de démo une fois enregistré -->
+<!-- <img src="assets/demo-electro05.gif" width="100%" /> -->
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zakariach05&repo=Electro-05&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=FFFFFF&icon_color=FFFF00&cache_seconds=86400&v=2)](https://github.com/zakariach05/Electro-05)
 
@@ -156,6 +171,16 @@ WM:     VS Code
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/zakariach05/zakariach05/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 👀 ~/visitors
+
+<div align="center">
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zakariach05.zakariach05)
 
 </div>
 
