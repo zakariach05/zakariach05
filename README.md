@@ -1,8 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,50:FFFFFF,100:B91C1C&height=180&section=header&text=Zakaria%20Chamekh&fontSize=40&fontColor=fff" width="100%"/>
+<h3><code>zakariach05@github ~ $ whoami</code></h3>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;React.js+%7C+Laravel+%7C+MySQL;Toujours+en+train+d'apprendre" />
+<table>
+<tr>
+<td width="42%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=zakariach05&theme=github-dark&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=zakariach05&theme=github-dark&style=terminal&mode=dark" width="100%" alt="zakariach05 portrait" />
+</picture></td>
+<td width="58%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=zakariach05&theme=github-dark&style=terminal&label=Zakaria+Chamekh&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=zakariach05&theme=github-dark&style=terminal&label=Zakaria+Chamekh&mode=dark" width="100%" alt="zakariach05 wordmark" />
+</picture></td>
+</tr>
+</table>
+
+<p><b>Développeur Web Full Stack Junior | Casablanca 🇲🇦</b></p>
+
+<p><a href="https://github.com/zakariach05">GitHub</a> &nbsp;·&nbsp; <a href="https://zakariach05.vercel.app/">Website</a></p>
+
+</div>
 
 ## 🖥️ ~/about
 
