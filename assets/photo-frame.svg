@@ -1,0 +1,30 @@
+<svg width="320" height="400" viewBox="0 0 320 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .frame-border {
+        fill: none;
+        stroke-width: 4;
+      }
+      .frame-border {
+        animation: pulseGlow 3s ease-in-out infinite, colorCycle 6s linear infinite;
+      }
+      @keyframes pulseGlow {
+        0%, 100% { stroke-opacity: 0.5; stroke-width: 3; }
+        50%      { stroke-opacity: 1;   stroke-width: 6; }
+      }
+      @keyframes colorCycle {
+        0%   { stroke: #FF0000; }
+        33%  { stroke: #FACC15; }
+        66%  { stroke: #FFFFFF; }
+        100% { stroke: #FF0000; }
+      }
+    </style>
+  </defs>
+
+  <!-- Remplace le href par l'URL RAW réelle de ta photo -->
+  <image href="https://raw.githubusercontent.com/zakariach05/zakariach05/main/assets/photo.gif"
+         x="10" y="10" width="300" height="380"
+         preserveAspectRatio="xMidYMid slice" />
+
+  <rect class="frame-border" x="10" y="10" width="300" height="380" rx="14" />
+</svg>
