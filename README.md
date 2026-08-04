@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3><code>zakariach05@github ~ $ whoami</code></h3>
+<h3><code>zakariach05@github</code></h3>
 
 <table>
 <tr>
