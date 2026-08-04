@@ -73,6 +73,10 @@ WM:     VS Code
 **Base de données & DevOps**
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,linux,postman" />
 
+<br/><br/>
+
+[![Voir la version animée](https://img.shields.io/badge/✨_Stack_animée_(icônes_qui_tournent)-161B22?style=for-the-badge&logo=htmx&logoColor=white)](https://zakariach05.github.io/zakariach05/stack.html)
+
 <img src="assets/divider.svg" width="100%"/>
 
 ## 📈 ~/activity
