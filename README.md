@@ -136,7 +136,4 @@ WM:     VS Code
 ### 📫 Contact
 
 📧 chamekhzakaria95@gmail.com &nbsp;|&nbsp; 📱 +212 704 685 662
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,50:FFFFFF,100:B91C1C&height=120&section=footer" width="100%"/>
-
 </div>
