@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Ma Stack Technique</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicon/2.15.1/devicon.min.css">
+<style>
+  :root{
+    --bg:#0d1117;
+    --card:#161b22;
+    --card-border:#242b36;
+    --text:#e6edf3;
+    --accent:#58a6ff;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Segoe UI', system-ui, sans-serif;
+    padding:40px 20px 70px;
+  }
+
+  /* ===== HEADER / LOGO ===== */
+  header{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:14px;
+    margin-bottom:60px;
+  }
+  .logo{
+    width:52px;
+    height:52px;
+    border-radius:14px;
+    background:linear-gradient(135deg,#58a6ff,#8957e5);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-weight:700;
+    font-size:20px;
+    color:#fff;
+    letter-spacing:-1px;
+    box-shadow:0 0 24px rgba(88,166,255,.45);
+    animation:spinY 6s linear infinite;
+    transform-style:preserve-3d;
+    perspective:600px;
+  }
+  header h1{
+    font-size:26px;
+    margin:0;
+    font-weight:600;
+  }
+
+  /* ===== SECTIONS ===== */
+  section{
+    margin-bottom:70px;
+    text-align:center;
+  }
+  section h2{
+    font-size:19px;
+    font-weight:600;
+    margin-bottom:32px;
+    color:var(--text);
+  }
+
+  .row{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:22px;
+    perspective:800px;
+  }
+
+  .icon-box{
+    width:64px;
+    height:64px;
+    border-radius:16px;
+    background:var(--card);
+    border:1px solid var(--card-border);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:30px;
+    transform-style:preserve-3d;
+    animation:spinY 5s linear infinite;
+    animation-delay:calc(var(--i) * 0.18s + var(--group) * 0.5s);
+    transition:box-shadow .25s ease;
+  }
+  .icon-box:hover{
+    box-shadow:0 0 18px rgba(88,166,255,.35);
+    animation-play-state:paused;
+  }
+
+  @keyframes spinY{
+    from{ transform:rotateY(0deg); }
+    to{ transform:rotateY(360deg); }
+  }
+
+  /* couleurs spécifiques comme dans la maquette d'origine */
+  .colored.html5    i{color:#e34c26;}
+  .colored.css3     i{color:#264de4;}
+  .colored.js       i{color:#f0db4f;}
+  .colored.php      i{color:#777bb4;}
+  .colored.java     i{color:#f89820;}
+  .colored.react    i{color:#61dafb;}
+  .colored.ruby     i{color:#cc342d;}
+  .colored.tailwind i{color:#38bdf8;}
+  .colored.spring   i{color:#6db33f;}
+  .colored.nodejs   i{color:#83cd29;}
+  .colored.mysql    i{color:#e6edf3;}
+  .colored.mongodb  i{color:#4db33d;}
+  .colored.docker   i{color:#2496ed;}
+  .colored.git      i{color:#f34f29;}
+  .colored.github   i{color:#e6edf3;}
+  .colored.linux    i{color:#e6edf3;}
+
+  @media (prefers-reduced-motion: reduce){
+    .logo, .icon-box{ animation:none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">&lt;/&gt;</div>
+  <h1>Ma Stack Technique</h1>
+</header>
+
+<section>
+  <h2>Langages</h2>
+  <div class="row" style="--group:0;">
+    <div class="icon-box colored html5" style="--i:0;"><i class="devicon-html5-plain"></i></div>
+    <div class="icon-box colored css3" style="--i:1;"><i class="devicon-css3-plain"></i></div>
+    <div class="icon-box colored js" style="--i:2;"><i class="devicon-javascript-plain"></i></div>
+    <div class="icon-box colored php" style="--i:3;"><i class="devicon-php-plain"></i></div>
+    <div class="icon-box colored java" style="--i:4;"><i class="devicon-java-plain"></i></div>
+    <div class="icon-box colored mysql" style="--i:5;"><i class="devicon-mysql-plain"></i></div>
+  </div>
+</section>
+
+<section>
+  <h2>Frameworks &amp; Librairies</h2>
+  <div class="row" style="--group:1;">
+    <div class="icon-box colored react" style="--i:0;"><i class="devicon-react-original"></i></div>
+    <div class="icon-box colored ruby" style="--i:1;"><i class="devicon-ruby-plain"></i></div>
+    <div class="icon-box colored tailwind" style="--i:2;"><i class="devicon-tailwindcss-plain"></i></div>
+    <div class="icon-box colored spring" style="--i:3;"><i class="devicon-spring-plain"></i></div>
+    <div class="icon-box colored nodejs" style="--i:4;"><i class="devicon-nodejs-plain"></i></div>
+  </div>
+</section>
+
+<section>
+  <h2>Base de données &amp; DevOps</h2>
+  <div class="row" style="--group:2;">
+    <div class="icon-box colored mysql" style="--i:0;"><i class="devicon-mysql-plain"></i></div>
+    <div class="icon-box colored mongodb" style="--i:1;"><i class="devicon-mongodb-plain"></i></div>
+    <div class="icon-box colored docker" style="--i:2;"><i class="devicon-docker-plain"></i></div>
+    <div class="icon-box colored git" style="--i:3;"><i class="devicon-git-plain"></i></div>
+    <div class="icon-box colored github" style="--i:4;"><i class="devicon-github-original"></i></div>
+    <div class="icon-box colored linux" style="--i:5;"><i class="devicon-linux-plain"></i></div>
+    <div class="icon-box colored" style="--i:6;color:#ff7a45;"><i class="devicon-vscode-plain"></i></div>
+  </div>
+</section>
+
+</body>
+</html>
