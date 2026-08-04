@@ -11,9 +11,7 @@
 <td width="40%" align="center" valign="middle">
 
 <img src="assets/photo-frame.svg" width="100%" style="max-width:320px;" />
-
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&pause=800&color=22C55E&center=true&vCenter=true&width=300&lines=%F0%9F%9F%A2+Disponible+pour+un+stage%2Femploi;%F0%9F%92%BB+En+train+de+coder..." />
 
 </td>
@@ -26,7 +24,6 @@ OS:     Full Stack Developer (Web)
 Host:   Casablanca – Sidi Maarouf, MA
 Kernel: React.js | Laravel | MySQL
 Uptime: 2+ years of coding
-
 Shell:  zsh 5.9
 WM:     VS Code
 
@@ -64,19 +61,16 @@ WM:     VS Code
 ## 🛠️ ~/stack
 
 **Langages**
-
 <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql" />
 
 <br/><br/>
 
 **Frameworks & Librairies**
-
 <img src="https://skillicons.dev/icons?i=react,laravel,tailwind,spring,nodejs" />
 
 <br/><br/>
 
 **Base de données & DevOps**
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,linux,postman" />
 
 <img src="assets/divider.svg" width="100%"/>
