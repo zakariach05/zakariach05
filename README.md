@@ -29,7 +29,7 @@
 
 <img src="assets/V.png" width="100%" style="max-width:320px;" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&pause=800&color=22C55E&center=true&vCenter=true&width=300&lines=%F0%9F%9F%A2+Disponible+pour+un+stage%2Femploi;%F0%9F%92%BB+En+train+de+coder..." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&pause=800&color=22C55E&center=true&vCenter=true&width=300&lines=%F0%9F%9F%A2;%F0%9F%92%BB+En+train+de+coder..." />
 
 </td>
 <td width="60%" valign="top">
