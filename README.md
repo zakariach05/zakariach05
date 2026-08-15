@@ -1,19 +1,6 @@
 <div align="center">
 
-<h3><code>zakariach05@github</code></h3>
-
-<table>
-<tr>
-<td width="42%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=zakariach05&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=zakariach05&theme=github-dark&style=terminal&mode=dark" width="100%" alt="zakariach05 portrait" />
-</picture></td>
-<td width="58%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=zakariach05&theme=github-dark&style=terminal&label=Zakaria+Chamekh&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=zakariach05&theme=github-dark&style=terminal&label=Zakaria+Chamekh&mode=dark" width="100%" alt="zakariach05 wordmark" />
-</picture></td>
-</tr>
-</table>
+<img src="assets/zc05.png" width="100%" style="max-width:320px;" />
 
 <p><b>Développeur Web Full Stack Junior | Casablanca 🇲🇦</b></p>
 
