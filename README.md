@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/3DLogoLab_Transparent.png" width="100%" style="max-width:320px;" />
+<img src="assets/3DLogoLab_Transparent (1).png.png" width="100%" style="max-width:320px;" />
 
 <p><b>Développeur Web Full Stack Junior | Casablanca 🇲🇦</b></p>
 
